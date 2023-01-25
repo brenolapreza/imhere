@@ -30,4 +30,4 @@ expo start
 
 ## GIF do projeto
 
-![GIF do projeto](https://github.com/brenolapreza/imhere/_git/tela.gif)
+![GIF do projeto](https://github.com/brenolapreza/imhere/blob/master/_git/tela.gif)
